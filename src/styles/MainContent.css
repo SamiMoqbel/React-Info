@@ -1,0 +1,29 @@
+.main-container{
+  padding: 30px 40px;
+  background-image: url("../images/react-logo-black-and-white-1-removebg-preview.png");
+  background-position: right center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 20%;
+  height: 78%;
+}
+
+.unordered-list{
+  list-style-position: outside;
+  
+}
+
+.unordered-list > li{
+  padding-bottom: 10px;
+  width: 400px;
+  line-height: 23px;
+  
+  
+}
+
+.unordered-list > li::marker{
+  color: rgb(186, 186, 255); 
+  font-size: 30px;
+  
+  
+}

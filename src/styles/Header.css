@@ -1,0 +1,43 @@
+.nav-Items{
+  list-style: none;
+  display: flex;
+}
+
+.nav-Items > li{
+  padding: 10px;
+}
+
+nav{
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-pic{
+  height: 40px;
+  margin-right: 10px;
+}
+
+.header-title{
+  font-size: 30px;
+  color: rgb(215, 215, 255);
+}
+
+
+.header-container{
+  display: flex;
+  align-items: center;
+}
+
+.navbar{
+  background-color: #2c2c2c;
+  padding: 10px 30px;
+  box-shadow: 0px 1.15px 10px darkslategray;
+  border: none;
+}
+
+.course-title{
+  display: flex;
+  align-items: center;
+
+  
+}
